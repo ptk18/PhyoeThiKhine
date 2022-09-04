@@ -2,7 +2,7 @@
 - 👀 I’m interested in OOP madness
 - 🌱 I’m currently learning Rust, Python
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me email-phyoethikhine143@gmail.com, fb-https://www.facebook.com/phyoethikhine.18, Ig-freyaoncloud9
+- 📫 How to reach me email-phyoethikhine143@gmail.com, Ig-freyaoncloud9
 
 <!---
 PhyoeThiKhine/PhyoeThiKhine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
