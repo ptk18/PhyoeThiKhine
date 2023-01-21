@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Freya
-- I'm a freshman Software Engineering student at King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand. 
+- 👋 Hi, I’m @Freya. 
+- I'm from Myanmar and currently studying Software Engineering at King Mongkut’s Institute of Technology Ladkrabang, Bangkok, Thailand. 
 - I code Python, Rust, Java, C++, Js and I'm aslo interested in web developing. 
 
 <!---
